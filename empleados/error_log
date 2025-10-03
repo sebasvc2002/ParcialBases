@@ -1,0 +1,72 @@
+[01-Oct-2025 01:50:30 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:50:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:50:33 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 23
+[01-Oct-2025 01:50:33 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 23
+[01-Oct-2025 01:50:33 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 27
+[01-Oct-2025 01:50:33 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 27
+[01-Oct-2025 01:50:33 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 32
+[01-Oct-2025 01:50:33 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 32
+[01-Oct-2025 01:51:14 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:51:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:51:17 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 23
+[01-Oct-2025 01:51:17 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 23
+[01-Oct-2025 01:51:17 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 27
+[01-Oct-2025 01:51:17 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 27
+[01-Oct-2025 01:51:17 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 32
+[01-Oct-2025 01:51:17 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 32
+[01-Oct-2025 01:51:25 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:51:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:51:29 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:51:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:52:51 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:52:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:53:23 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:53:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:53:25 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:53:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:56:24 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:56:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:57:14 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:57:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:57:16 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 23
+[01-Oct-2025 01:57:16 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 23
+[01-Oct-2025 01:57:16 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 27
+[01-Oct-2025 01:57:16 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 27
+[01-Oct-2025 01:57:16 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 32
+[01-Oct-2025 01:57:16 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 32
+[01-Oct-2025 01:57:30 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 01:57:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 02:24:27 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 02:24:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 03:23:11 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 03:23:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 03:23:24 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 23
+[01-Oct-2025 03:23:24 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 23
+[01-Oct-2025 03:23:24 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 27
+[01-Oct-2025 03:23:24 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 27
+[01-Oct-2025 03:23:24 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 32
+[01-Oct-2025 03:23:24 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 32
+[01-Oct-2025 03:46:51 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 03:46:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 15:30:17 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 15:30:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 16:21:06 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 16:21:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 21:28:02 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[01-Oct-2025 21:28:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[02-Oct-2025 02:37:56 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[02-Oct-2025 02:37:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[02-Oct-2025 02:39:58 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[02-Oct-2025 02:39:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[02-Oct-2025 02:40:00 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[02-Oct-2025 02:40:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[02-Oct-2025 02:41:08 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[02-Oct-2025 02:41:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[02-Oct-2025 02:41:25 UTC] PHP Warning:  Undefined variable $employees in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[02-Oct-2025 02:41:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/p7axwxix5i77/public_html/empleados/index.php on line 28
+[02-Oct-2025 02:44:04 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 23
+[02-Oct-2025 02:44:04 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 23
+[02-Oct-2025 02:44:04 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 27
+[02-Oct-2025 02:44:04 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 27
+[02-Oct-2025 02:44:04 UTC] PHP Warning:  Undefined variable $employee in /home/p7axwxix5i77/public_html/empleados/form.php on line 32
+[02-Oct-2025 02:44:04 UTC] PHP Warning:  Trying to access array offset on null in /home/p7axwxix5i77/public_html/empleados/form.php on line 32
