@@ -101,7 +101,7 @@ El sistema utiliza una base de datos MySQL llamada `VentasDB` con las siguientes
 
 1. **Clonar o descargar el proyecto**
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
+   git clone https://github.com/sebasvc2002/ParcialBases/
    ```
 
 2. **Configurar la base de datos**
@@ -150,24 +150,3 @@ En cada módulo puedes:
 - Validación y escape de datos de entrada con `htmlspecialchars()`
 - Confirmaciones JavaScript para operaciones de eliminación
 - Manejo de errores con try-catch
-
-## 🤝 Contribución
-
-Este proyecto fue desarrollado como parte de un parcial académico. Para contribuir:
-
-1. Fork el proyecto
-2. Crear una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
-3. Commit tus cambios (`git commit -am 'Agregar nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
-5. Crear un Pull Request
-
-## 📝 Licencia
-
-Este proyecto es de uso académico desarrollado para el curso de Bases de Datos.
-
-## 📞 Contacto
-
-Para dudas o consultas, contactar a cualquier miembro del equipo de desarrollo.
-
----
-*Desarrollado con ❤️ por el equipo O.C.S.O*
